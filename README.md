@@ -13,11 +13,14 @@ var aboutMe = map[string]any{
 ```
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aybangueco&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybangueco&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybangueco&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aybangueco&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=aybangueco&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img height="190px" src="https://github-profile-trophy.vercel.app/?username=aybangueco&theme=tokyonight&margin-w=8&margin-h=8"/>
+</p>
 
 ## 🛠️ Tech Stack
 
