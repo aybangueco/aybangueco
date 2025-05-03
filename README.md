@@ -12,16 +12,6 @@ var aboutMe = map[string]any{
 }
 ```
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aybangueco&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=aybangueco&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img height="190px" src="https://github-profile-trophy.vercel.app/?username=aybangueco&theme=tokyonight&margin-w=8&margin-h=8"/>
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Languages & Core Technologies
@@ -70,3 +60,13 @@ var aboutMe = map[string]any{
 - Can Squat twice of my bodyweight
 - Always debugging with a cup of coffee nearby
 - Gaming enthusiast when not coding
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=aybangueco&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=aybangueco&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img height="190px" src="https://github-profile-trophy.vercel.app/?username=aybangueco&theme=tokyonight&margin-w=8&margin-h=8"/>
+</p>
