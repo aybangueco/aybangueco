@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ivan!
-> Full Stack Developer from the Philippines with a passion for backend development and a complex relationship with frontend work.
+> A Software Developer from Philippines with a passion for web development.
 
 ## About Me
 ```go
@@ -49,17 +49,6 @@ var aboutMe = map[string]any{
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## 🤝 Let's Connect
-- 👯 Open to collaborate on problem-solving projects and fun experiments
-- 🤔 Looking to enhance my communication skills
-- 💬 Ask me about web/mobile development, music, or fitness
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/justine-ivan-gueco-4a8a3a312/)
-
-## ⚡ Fun Facts
-- Can Squat twice of my bodyweight
-- Always debugging with a cup of coffee nearby
-- Gaming enthusiast when not coding
 
 ## 📊 GitHub Stats
 <p align="center">
