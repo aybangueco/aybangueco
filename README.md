@@ -5,9 +5,9 @@
 ```go
 var aboutMe = map[string]any{
     "age": 22,
-    "currentRole": "Full Stack Developer Intern @ PITO Bataan",
+    "currentRole": "Unemployed :<",
     "education": "Information Technology",
-    "isGraduated": false,
+    "isGraduated": true,
     "location": "Philippines",
 }
 ```
