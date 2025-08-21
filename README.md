@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Ivan!
-> A Software Developer from Philippines with a passion for web development.
+> I'm a software developer trying to building something cool. My old [github](https://github.com/bangueco) account (rip :<) if you are curious about my origin.
 
 ## About Me
 ```go
 var aboutMe = map[string]any{
     "age": 22,
-    "currentRole": "Unemployed :<",
-    "education": "Information Technology",
+    "currentRole": "I need a job",
+    "education": "BS Information Technology",
     "isGraduated": true,
     "location": "Philippines",
 }
