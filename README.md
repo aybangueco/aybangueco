@@ -1,16 +1,5 @@
-# 👋 Hi there, I'm Ivan!
-> I'm a software developer trying to building something cool. My old [github](https://github.com/bangueco) account (rip :<) if you are curious about my origin.
-
-## About Me
-```go
-var aboutMe = map[string]any{
-    "age": 22,
-    "currentRole": "I need a job",
-    "education": "BS Information Technology",
-    "isGraduated": true,
-    "location": "Philippines",
-}
-```
+# 👋 Hi there, I'm Ban!
+> I'm a software developer trying to build something cool. My old [github](https://github.com/bangueco) account (rip :<) if you are curious about my origin.
 
 ## 🛠️ Tech Stack
 
